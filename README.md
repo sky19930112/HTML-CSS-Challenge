@@ -24,3 +24,8 @@ Homework for mod 1 challenge
 *In the css code, I move the coding that related to article section below the content class. which match the order of the HTML outline.
 
 *In CSS, the aside section has a lot repeating coding to do same function; therefore to change classes into same class "benefit-one" to deleted extra codings.
+
+link to deployed application(https://sky19930112.github.io/HTML-CSS-Challenge/)
+
+![image one](./assets/P1.jpg)
+![image two](./assets/p2.jpg)
