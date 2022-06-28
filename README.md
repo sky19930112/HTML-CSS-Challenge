@@ -22,3 +22,5 @@ Homework for mod 1 challenge
 *I changed last heading in footer into h4 tag
 
 *In the css code, I move the coding that related to article section below the content class. which match the order of the HTML outline.
+
+*In CSS, the aside section has a lot repeating coding to do same function; therefore to change classes into same class "benefit-one" to deleted extra codings.
