@@ -22,5 +22,3 @@ Homework for mod 1 challenge
 *I changed last heading in footer into h4 tag
 
 *In the css code, I move the coding that related to article section below the content class. which match the order of the HTML outline.
-
-* I tried to moved whole nav tag section to head section but somehow in the broweser still showing that the nav section still under the body section. So I decide to put it back under body section.
